@@ -1,4 +1,4 @@
-sqlparse==0.3.0
+sqlparse==0.4.4
 django==2.2.1
 pandas==0.24.2
 tqdm==4.32.1
